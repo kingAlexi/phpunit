@@ -1,5 +1,5 @@
 {
-    "name": "kingAlexi/phpunit",
+    "name": "kingalexi/phpunit",
     "repositories": [
         {
             "type": "vcs",
