@@ -1,10 +1,12 @@
-"name": "kingAlexi",
-"description": "A simple test library",
-"homepage": "https://github.com/kingAlexi/phpunit",
-"license": "WTFPL",
-"authors": [
-    {
-        "name": "This is test project",
-        "homepage": "https://github.com/kingAlexi/phpunit"
+{
+    "name": "kingAlexi/phpunit",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kingAlexi/phpunit"
+        }
+    ],
+    "require": {
+        "kingAlexi/phpunit": "kingAlexi"
     }
-]
+}
