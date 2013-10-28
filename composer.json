@@ -1,0 +1,10 @@
+"name": "kingAlexi/phpunit",
+"description": "A simple test library",
+"homepage": "https://github.com/kingAlexi/phpunit",
+"license": "WTFPL",
+"authors": [
+    {
+        "name": "This is test project",
+        "homepage": "https://github.com/kingAlexi/phpunit"
+    }
+]
