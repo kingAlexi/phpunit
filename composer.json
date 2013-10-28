@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-        "kingAlexi/phpunit": "kingAlexi"
+        "kingAlexi/phpunit": "dev-master"
     }
 }
